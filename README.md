@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>了了</title>
-   
-</head>
-body {
+   body {
     background-color: #B3E1ED;
 }
+</head>
+
 
 
 <body>
